@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for timurr on 2024-11-07T20:30:38+08:00
+# fly.toml app configuration file generated for timurr-app on 2024-11-07T23:06:32+08:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'timurr'
+app = 'timurr-app'
 primary_region = 'sin'
 
 [build]
